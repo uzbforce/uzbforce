@@ -3,16 +3,14 @@
 I'm a passionate and self-taught front-end developer from Uzbekistan 🇺🇿  
 I love building beautiful, user-friendly websites that feel alive ✨  
 
+My hobby is to work on Android kernels.
+
 ## 🚀 About Me
 - 🧠 Always learning — currently diving into **React** and **Python**
-- 💻 Built over 10+ projects from scratch using **HTML**, **CSS**, and **JavaScript**
+- 💻 Built over 10+ projects from scratch using **HTML**, **CSS**, **JavaScript** and **Python** 
 - 🎨 Designer at heart — love creating clean and aesthetic user interfaces
 - 🔧 Exploring **Git**, **Netlify**, and the full power of **VS Code**
 
-## 💼 My Work
-Check out some of my favorite projects:
-- 🌐 [Uzum Shop](https://uzumshop.netlify.app) – A beautiful e-commerce UI clone  
-- 🧑‍💻 [My Portfolio](https://uzbforce.netlify.app) – Still under construction but feel free to visit! 🚧  
 
 ## 📫 Let's Connect!
 I’m always happy to meet other developers, learn from each other, and maybe collaborate on cool ideas 🤝
